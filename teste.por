@@ -6,3 +6,6 @@
 //senao{
 //    escreva("0000")
 //}
+//cgfdsrt
+//se(s == 0 )
+senao se 
