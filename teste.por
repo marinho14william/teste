@@ -9,3 +9,6 @@
 //cgfdsrt
 //se(s == 0 )
 senao se 
+vvbnnn
+cgjghjk
+fgkfvkj()
